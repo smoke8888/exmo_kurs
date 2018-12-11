@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Курсы валют на EXMO</string>
+    <string name="configure_widget_title">Настройка виджета</string>
+    <string name="configure_widget_subtitle">Выберите не более 2-х валютных пар</string>
+    <string name="title_activity_settings">Параметры</string>
+    <string name="button_settings">Настройки</string>
+    <string name="button_about">О программе</string>
+    <string name="widget_refresh">Обновить</string>
+    <string name="widget_settings">Настройки</string>
+</resources>
